@@ -1,0 +1,9 @@
+button {
+	font-size: 100px;
+text-align: center;
+text-color
+}
+
+button:hover {
+	color:green;
+}
