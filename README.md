@@ -1,2 +1,0 @@
-# geniale-websiteje
-sick
